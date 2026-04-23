@@ -1,27 +1,43 @@
-<h1 align="center">hi, i'm sam 👋</h1>
+<h1 align="center">hey, i'm sam </h1>
 
 <p align="center">
-  cs student • software dev • creatives • pastry lover
+  <i>cs student • software dev • creatives • pastry enthusiast </i>
+</p>
+
+<p align="center">
+  building clean & intuitive apps with a focus on user experience
 </p>
 
 ---
 
 ## tech stack
-![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react)
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase)
-![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js)
+<p align="center">
+  <img src="https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
+</p>
 
 ---
 
 ## github stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sam-cookie&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sam-cookie&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sam-cookie&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sam-cookie&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=sam-cookie&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sam-cookie&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
 ## connect with me
-- email: sdlansoy@up.edu.ph
-- portfolio: [sam lansoy portfolio](https://sam-lansoy-portfolio.vercel.app/)
+<p align="center">
+   <a href="mailto:sdlansoy@up.edu.ph">sdlansoy@up.edu.ph</a><br/>
+   <a href="https://sam-lansoy-portfolio.vercel.app/">sam lansoy portfolio</a>
+</p>
