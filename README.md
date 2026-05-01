@@ -23,7 +23,7 @@
 
 ## github stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sam-cookie&show_icons=true&theme=tokyonight&hide_border=true"/>
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sam-cookie&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
