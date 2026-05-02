@@ -38,6 +38,20 @@
 
 ## connect with me
 <p align="center">
-   <a href="mailto:sdlansoy@up.edu.ph">sdlansoy@up.edu.ph</a><br/>
-   <a href="https://sam-lansoy-portfolio.vercel.app/">sam lansoy portfolio</a>
+  <a href="mailto:sdlansoy@up.edu.ph" target="_blank">
+    <img align="center" src="https://img.icons8.com/color/48/gmail-new.png" alt="Email" width="20"/>
+  </a>
+  <a href="mailto:sdlansoy@up.edu.ph" target="_blank">Samantha Lansoy</a>
+  &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
+
+  <a href="https://sam-lansoy-portfolio.vercel.app/" target="_blank">
+    <img align="center" src="https://img.icons8.com/color/48/domain.png" alt="Portfolio" width="20"/>
+  </a>
+  <a href="https://sam-lansoy-portfolio.vercel.app/" target="_blank">Portfolio</a>
+  &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.linkedin.com/in/samantha-lodenn-lansoy-6b245a3a9" target="_blank">
+    <img align="center" src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="20"/>
+  </a>
+  <a href="https://www.linkedin.com/in/samantha-lodenn-lansoy-6b245a3a9" target="_blank">LinkedIn</a>
 </p>
