@@ -8,6 +8,10 @@
   building clean & intuitive apps with a focus on user experience
 </p>
 
+<p align="center">
+  currently building memora : ) 
+</p>
+
 ---
 
 ## tech stack
